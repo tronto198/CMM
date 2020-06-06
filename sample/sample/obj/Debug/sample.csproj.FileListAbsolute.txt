@@ -30,7 +30,6 @@ C:\Users\akemf\Desktop\sample\sample\obj\Debug\sample.csproj.CoreCompileInputs.c
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\고양이 마리오\고양이 마리오.exe.config
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\고양이 마리오\고양이 마리오.exe
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\고양이 마리오\고양이 마리오.pdb
-C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\sample.csprojResolveAssemblyReference.cache
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\sample.Form1.resources
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\sample.Form2.resources
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\sample.Form3.resources
@@ -44,3 +43,7 @@ C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\sample.csproj.CopyComplete
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\고양이 마리오.exe
 C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\고양이 마리오.pdb
+C:\Users\akemf\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\sample.csprojAssemblyReference.cache
+C:\Users\HJ\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\sample.csprojAssemblyReference.cache
+C:\Users\HJ\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\고양이 마리오.exe
+C:\Users\HJ\Desktop\Projects\Visual Studio\p_1 고양이마리오 - 1-여름\sample\sample\obj\Debug\고양이 마리오.pdb
